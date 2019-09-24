@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-font name="Muli" href="https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700&display=swap" />
+
+      <mj-all font-size="14px" line-height="21px" color="#414141" font-weight="300" font-family="'Muli',Arial,Helvetica,sans-serif" />
+      <mj-button border-radius="5px" background-color="#1F789B" color="#414141" />
+      <mj-section css-class="pardot-repeat-remove" />
+
+    </mj-attributes>
+    <mj-style>
+      @import url('https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700&display=swap');
+
+      * {
+        font-family: "Muli", Arial, Helvetica, san-serif;
+      }
+
+      a.whiteLink {
+        color: #fff !important;
+        text-decoration: none;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section background-url="https://go.streetlightdata.com/l/514221/2019-09-24/rt7d2/514221/213227/email_gradient_bg.jpg" full-width="full-width">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-weight="200" font-size="24px" line-height="32px">
+          <div class="pardot-region">Introducing the all new</div>
+        </mj-text>
+        <mj-image src="https://go.streetlightdata.com/l/514221/2019-09-24/rt7hq/514221/213229/insight_logo_600px.png" fluid-on-mobile="true" />
+        <mj-image src="https://go.streetlightdata.com/l/514221/2019-09-24/rt7hv/514221/213231/insight_laptop_600px.png" fluid-on-mobile="true" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F5F5F5" full-width="full-width">
+      <mj-column width="50%">
+        <mj-image src="https://go.streetlightdata.com/l/514221/2019-09-24/rt7kg/514221/213235/streetlight_nav_250px.png" fluid-on-mobile="false" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="#1F789B" font-size="17px" line-height="26px" font-weight="normal">
+          <div class="pardot-region">We've made it faster to get around the platform.</div>
+        </mj-text>
+        <mj-text line-height="21px" font-size="14px">
+          <div class="pardot-region">A <strong>redesigned navigation</strong> will make it easier to get where you want to go. Navigation will stay on the left side of the page. You can collapse the menu if you need more space. Looking for something specific? we've added a <strong>"jump to page"</strong> function that has a keyboard shortcut (Ctrl/Cmd + K).</div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#040402" direction="rtl" full-width="full-width">
+      <mj-column width="50%">
+        <mj-image src="https://go.streetlightdata.com/l/514221/2019-09-24/rt7ys/514221/213241/insight_map_250px.png" fluid-on-mobile="false" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="#ffda6b" font-size="17px" line-height="26px" font-weight="normal">
+          <div class="pardot-region">We've made it faster to get around the platform.</div>
+        </mj-text>
+        <mj-text line-height="21px" font-size="14px" color="#ffffff">
+          <div class="pardot-region">We've completely <strong>upgraded the Create Projects user flow</strong> to make it easier to create new analyses in the platform. Don't worry, you can still use the old Create Projects user flow, it just has our new color scheme. Note: <strong>Projects are now called Analyses</strong> in the redesigned interface.</div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F5F5F5" direction="rtl" full-width="full-width">
+      <mj-column width="50%">
+        <mj-image src="https://go.streetlightdata.com/l/514221/2019-09-24/rt7yz/514221/213245/insight_color_pallette_250px.png" fluid-on-mobile="false" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="#1F789B" font-size="17px" line-height="26px" font-weight="normal">
+          <div class="pardot-region">We have a new coat of paint.</div>
+        </mj-text>
+        <mj-text line-height="21px" font-size="14px">
+          <div class="pardot-region">We're making some changes to <strong>increase the usability</strong> of our software. Starting with this release, our updated color theme helps create contrast so that <strong>page elements are easier to see.</strong></div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#040402" full-width="full-width">
+      <mj-column>
+        <mj-text color="#fff" font-size="17px" line-height="26px" align="center" font-weight="normal">
+          <div class="pardot-region">Ready to dive in?</div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#040402" full-width="full-width">
+      <mj-column width="50%">
+        <mj-button css-class="pardot-region" href="#" width="100%" background-color="#ffda6b" color="#040402" text-transform="uppercase" font-weight="600" border="1px solid #040402">
+          Register for Training
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-button css-class="pardot-region" href="#" width="100%" background-color="#040402" color="#fff" text-transform="uppercase" font-weight="600" border="1px solid #ffda6b">
+          Try out the new insight
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#040402" full-width="full-width">
+      <mj-column>
+        <mj-social align="left">
+          <mj-social-element name="facebook-noshare" href="https://www.facebook.com/StreetLightData/" background-color="#040402">
+          </mj-social-element>
+          <mj-social-element name="twitter-noshare" href="https://twitter.com/streetlightdata" background-color="#040402">
+          </mj-social-element>
+          <mj-social-element name="youtube-noshare" href="https://www.youtube.com/channel/UCB2WAlF-VQKKtAUan9FqKOQ" background-color="#040402">
+          </mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="https://www.linkedin.com/company/streetlight-data-inc-/" background-color="#040402">
+          </mj-social-element>
+        </mj-social>
+        </mj-text>
+        <mj-text color="#fff" font-size="12px" line-height="19px">
+          StreetLight Data<br />
+          <a href="#" class="whiteLink" style="color: #FFFFFF !important; text-decoration: none !important;"><span style="color: #FFFFFF !important; text-decoration: none !important;">
+              <font style="color: #FFFFFF !important; text-decoration: none !important;">677 Harrison Street<br />
+                San Francisco, CA 94107</font>
+            </span></a>
+        </mj-text>
+        <mj-text color="#fff" font-size="12px" line-height="19px">
+          You received this email because you are a StreetLight Data customer.
+        </mj-text>
+        <mj-text color="#fff" font-size="12px" line-height="19px">
+          <a href="%%unsubscribe%%" class="whiteLink" style="color: #FFFFFF !important; text-decoration: underline !important;"><span style="color: #FFFFFF !important; text-decoration: underline !important;">
+              <font style="color: #FFFFFF !important; text-decoration: underline !important;">Unsubscribe</font>
+            </span></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
